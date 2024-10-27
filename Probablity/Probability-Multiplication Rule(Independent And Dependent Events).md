@@ -53,7 +53,7 @@ P(ace on 1st and 2nd draw) = 4/52 \* 3/51 = 1/221
 
 ## Summary
 
-- **Independent Events**: P(A and B) = P(A) \* P(B)
-- **Dependent Events**: P(A and B) = P(A) \* P(B/A)
+- **Independent Events**: P(A and B) = P(A) * P(B)
+- **Dependent Events**: P(A and B) = P(A) * P(B/A)
 
 This multiplication rule is essential for understanding the likelihood of multiple events happening together based on their dependence or independence.
