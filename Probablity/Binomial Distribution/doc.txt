@@ -1,0 +1,3 @@
+A binomial distribution is suitable for scenarios with discrete outcomes, like coin flips.
+    PMF: Probability of exact outcomes (e.g., getting exactly 5 heads in 10 tosses).
+    CDF: Probability of achieving a certain number or fewer outcomes (e.g., getting 5 or fewer heads in 10 tosses).
