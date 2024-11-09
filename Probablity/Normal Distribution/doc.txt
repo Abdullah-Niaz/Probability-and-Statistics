@@ -1,0 +1,3 @@
+A normal distribution can model real-world phenomena like measurement errors, where values are continuous.
+    PDF: Represents the probability density at each point.
+    CDF: Shows cumulative probability up to a point.
