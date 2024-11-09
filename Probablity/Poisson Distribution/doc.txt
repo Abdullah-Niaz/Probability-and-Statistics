@@ -1,0 +1,3 @@
+The Poisson distribution models the number of times an event occurs within a fixed interval (e.g., the number of calls received by a call center per hour). This distribution is discrete.
+    PMF: Probability of a given number of events.
+    CDF: Cumulative probability of observing up to a given number of events.
