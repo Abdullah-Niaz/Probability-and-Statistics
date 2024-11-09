@@ -1,0 +1,3 @@
+The uniform distribution models scenarios where all outcomes are equally likely within a given range (e.g., rolling a fair die or random number generation between two values). This distribution can be discrete or continuous.
+    PDF: Shows a constant probability across the range.
+    CDF: Linearly increases across the range.
